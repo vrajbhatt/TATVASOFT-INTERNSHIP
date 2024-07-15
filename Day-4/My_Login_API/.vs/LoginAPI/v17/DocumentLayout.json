@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09F8C8D-CCCA-4D65-B3CF-AEE8FE42DEF7}|LoginAPI\\LoginAPI.csproj|d:\\vs code\\internship\\tatvasoft\\loginapi\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09F8C8D-CCCA-4D65-B3CF-AEE8FE42DEF7}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DAEE13-A502-4FA7-BF0B-E8E00BFA1F13}|Data_Access_Layer\\Data_Access_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\loginapi\\data_access_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DAEE13-A502-4FA7-BF0B-E8E00BFA1F13}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09F8C8D-CCCA-4D65-B3CF-AEE8FE42DEF7}|LoginAPI\\LoginAPI.csproj|d:\\vs code\\internship\\tatvasoft\\loginapi\\loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B09F8C8D-CCCA-4D65-B3CF-AEE8FE42DEF7}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DAEE13-A502-4FA7-BF0B-E8E00BFA1F13}|Data_Access_Layer\\Data_Access_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\loginapi\\data_access_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DAEE13-A502-4FA7-BF0B-E8E00BFA1F13}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\Data_Access_Layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\Data_Access_Layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:17:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginAPI\\appsettings.json",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeToolTip": "LoginAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T00:12:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\Data_Access_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Entity\\User.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\Data_Access_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:53:32.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\LoginAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoginAPI\\Program.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\LoginAPI\\LoginAPI\\Program.cs*",
+              "RelativeToolTip": "LoginAPI\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:53:19.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

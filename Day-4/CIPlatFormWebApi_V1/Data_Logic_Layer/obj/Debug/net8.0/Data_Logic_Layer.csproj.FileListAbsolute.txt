@@ -1,0 +1,29 @@
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.deps.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.runtimeconfig.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\refint\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.genruntimeconfig.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\ref\Data_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.deps.json
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.runtimeconfig.json
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.AssemblyReference.cache
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfoInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfo.cs
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.sourcelink.json
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\refint\Data_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.pdb
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.genruntimeconfig.cache
+D:\vs code\Internship\TatvaSoft\Day-4\CIPlatFormWebApi_V1\Data_Logic_Layer\obj\Debug\net8.0\ref\Data_Logic_Layer.dll

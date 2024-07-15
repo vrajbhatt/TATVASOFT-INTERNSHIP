@@ -1,0 +1,151 @@
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.exe
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.deps.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Authentication.pdb
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.csproj.CopyComplete
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.pdb
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+C:\Users\HP\source\repos\Authentication\Authentication\obj\Debug\net7.0\ref\Authentication.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Npgsql.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\source\repos\Authentication\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\appsettings.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.exe
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.deps.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.pdb
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Npgsql.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authenti.5C4D8D91.Up2Date
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.pdb
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\ref\Authentication.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\appsettings.Development.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\appsettings.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.exe
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.deps.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.runtimeconfig.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Authentication.pdb
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Humanizer.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Npgsql.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\System.CodeDom.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.csproj.AssemblyReference.cache
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfoInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.AssemblyInfo.cs
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.csproj.CoreCompileInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.sourcelink.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.build.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.development.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.build.Authentication.props
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\scopedcss\bundle\Authentication.styles.css
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authenti.5C4D8D91.Up2Date
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\refint\Authentication.dll
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.pdb
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\Authentication.genruntimeconfig.cache
+D:\vs code\Internship\TatvaSoft\Day-7\Authentication\obj\Debug\net7.0\ref\Authentication.dll

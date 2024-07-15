@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\vs code\\internship\\tatvasoft\\day-7\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\vs code\\internship\\tatvasoft\\day-7\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\vs code\\internship\\tatvasoft\\day-7\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\vs code\\internship\\tatvasoft\\day-7\\authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:56:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:56:40.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:57:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Repository\\Mission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Mission.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-7\\Authentication\\Repository\\Mission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Mission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:57:24.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

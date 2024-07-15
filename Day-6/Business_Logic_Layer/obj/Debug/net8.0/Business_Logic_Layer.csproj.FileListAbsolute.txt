@@ -1,0 +1,46 @@
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\BRIJESH\Desktop\InternShip\TatvaSoft\Day-6\CRUDOperationAPI\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.sourcelink.json
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+D:\vs code\Internship\TatvaSoft\Day-6\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll

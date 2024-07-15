@@ -1,0 +1,15 @@
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.sourcelink.json
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+D:\vs code\Internship\TatvaSoft\LoginAPI\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

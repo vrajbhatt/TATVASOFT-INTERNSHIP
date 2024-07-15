@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\data_logic_layer\\migrations\\20240704022924_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240704022924_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\vs code\\internship\\tatvasoft\\day-4\\ciplatformwebapi_v1\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:37:59.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:34:21.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240704022924_first.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Migrations\\20240704022924_first.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240704022924_first.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Migrations\\20240704022924_first.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240704022924_first.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:30:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Program.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:03:18.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T03:24:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:11.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "D:\\vs code\\Internship\\TatvaSoft\\Day-4\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:37.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
